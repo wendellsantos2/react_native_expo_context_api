@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "imagem": 21,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": 1
+    },
+    {
+      "imagem": 19,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": 2
+    },
+    {
+      "imagem": 21,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": 3
+    },
+    {
+      "imagem": 19,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": 4
+    }
+  ]
+}
